@@ -1,0 +1,7 @@
+{
+    "name": "KodeKloud Demo Organization NodeJS CI",
+    "description": "KodeKloud Organization NodeJS Init CI starter workflow.",
+    "categories": [
+        "NPM Config"
+    ]
+}
